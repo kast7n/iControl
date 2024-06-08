@@ -1,0 +1,29 @@
+---MOUSE COMMANDS---
+
+'move to (1) (2)' - moves the mouse to the point on the screen with x-coordinate (1) and y-coordinate (2)
+'move up (1)' - moves the mouse up by (1) pixels
+'move down (1)' - moves the mouse down by (1) pixels
+'move left (1)' - moves the mouse left by (1) pixels
+'move right (1)' - moves the mouse right by (1) pixels
+'left click' - clicks the left mouse button once at the mouse's current location
+'double click' - clicks the left mouse button twice at the mouse's current location
+'right click' - clicks the right mouse button once at the mouse's current location
+'middle click' - clicks the middle mouse button once at the mouse's current location
+'hold left' - holds down the left mouse button at the mouse's current location
+'hold right' - holds down the right mouse button at the mouse's current location
+'hold middle' - holds down the middle mouse button at the mouse's current location
+'release left' - releases the left mouse button at the mouse's current location
+'release right' - releases the right mouse button at the mouse's current location
+'release middle' - releases the middle mouse button at the mouse's current location
+'scroll up (1)' - mouse scroll up by (1) units
+'scroll down (1)' - mouse scroll down by (1) units
+---KEYBOARD COMMANDS---
+
+'press key (K1)' - press and release keyboard key (K1)
+'hold key (K1)' - hold down keyboard key (K1)
+'release key (K1)' - release keyboard key (K1)
+'use shortcut (K1) (K2) (K3) ... (K#)' - press and hold keyboard keys (K1) through (K#) in order and then release them in reverse order
+'type this [T]' - type the list of words [T]
+---OTHER COMMANDS---
+
+'quit program' - terminates the execution of the program
